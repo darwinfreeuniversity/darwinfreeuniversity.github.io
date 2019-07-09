@@ -1,4 +1,4 @@
-
+---
 title: Darwin Free University
 timezone: Australia/Darwin
 collections:
@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: A free grassroots autonomous space run twice a month at Darwin Community Arts
-  in Coconut Grove dedicated to the radical redistributing of education and learning.
+description: A free grassroots autonomous space run twice a month at Darwin Community
+  Arts in Coconut Grove dedicated to the radical redistributing of education and learning.
 facebook:
   publisher: https://www.facebook.com/DarwinFreeUniversity/
 logo: "/assets/img/dfu-circle.svg"
@@ -31,4 +31,3 @@ sass:
 simple-form: https://simple-form.com/darwinfreeuniversity@gmail.com
 dfu-facebook: https://www.facebook.com/DarwinFreeUniversity
 dfu-homepage: https://darwinfree.university
-
