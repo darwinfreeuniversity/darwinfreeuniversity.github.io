@@ -22,7 +22,7 @@
   "_resolved": "https://registry.npmjs.org/bootstrap-scss/-/bootstrap-scss-4.3.1.tgz",
   "_shasum": "d0c5ae69957dcf677092d3d9dacfab2d15504e9c",
   "_spec": "bootstrap-scss@4.3.1",
-  "_where": "/home/tom/dev/cad/climateactiondarwin.github.io",
+  "_where": "~dev/darwinfreeuniversity.github.io",
   "author": {
     "name": "Cristian Trifan",
     "email": "criss.trifan@gmail.com",

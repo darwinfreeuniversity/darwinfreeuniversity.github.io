@@ -1,15 +1,16 @@
-$cad-dark-blue: rgb(9,37,131); // midnightblue
-$cad-mid-blue: rgb(61,105,167); // steelblue
-$cad-green: rgb(82,140,50); // olivedrab
-$cad-orange: rgb(198,130,62); // peru
-$cad-red: rgb(198,57,35); // firebrick
-$cad-purple: rgb(79,38,84); // darkslategray
+$dfu-dark-blue: #295568; // darkened version of "analogous" blue
+$dfu-success-green: #4bb543; // "success green"
+$dfu-green: #a2dacf; // lightgreen
+$dfu-blue: #a2c9da; // "analogous" to lightgreen
+$dfu-orange: #f45d1f; // chocolate
+$dfu-red: #f2003e; // bright red
+$dfu-purple: #740058; // deep purple
 
-$primary: $cad-mid-blue; // burgundy
-$secondary: $cad-orange; // #6c757d; // standard Bootstrap 4
-$success: $cad-green;
-$info: $cad-green;
-$warning: $cad-orange;
-$danger: $cad-red;
+$primary: $dfu-dark-blue; // burgundy
+$secondary: $dfu-orange; // #6c757d; // standard Bootstrap 4
+$success: $dfu-success-green;
+$info: $dfu-blue;
+$warning: $dfu-orange;
+$danger: $dfu-red;
 
 $font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;

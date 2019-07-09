@@ -1,16 +1,16 @@
 
-header.cad-masthead {
+header.dfu-masthead {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/school-strike-2.jpg") no-repeat center center;
+  background-color: $dfu-orange;
+  // background: url("../img/dfu-bird.svg") no-repeat center center;
   background-size: cover;
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
-header.cad-masthead .overlay {
+header.dfu-masthead .overlay {
   position: absolute;
-  background-color: #212529;
+  //background-color: #212529;
   height: 100%;
   width: 100%;
   top: 0;
@@ -18,16 +18,16 @@ header.cad-masthead .overlay {
   opacity: 0.3;
 }
 
-header.cad-masthead h1 {
+header.dfu-masthead h1 {
   font-size: 2rem;
 }
 
 @media (min-width: 768px) {
-  header.cad-masthead {
+  header.dfu-masthead {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
-  header.cad-masthead h1 {
+  header.dfu-masthead h1 {
     font-size: 3rem;
   }
 }
